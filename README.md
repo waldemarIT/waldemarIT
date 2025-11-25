@@ -1,3 +1,10 @@
+🧑‍💻 Aspiring Software Engineer Hi, I'm Vladyslav Sklema, a third-year Computer Science student with a deep interest in software development, algorithms, and the theoretical aspects of computing. While I haven’t worked in the industry yet, I actively enhance my skills through hands-on coding projects and self-guided learning.  Current Projects: – Algorithms & Data Structures – implementing and optimizing a wide range of algorithmic solutions with a focus on performance and clarity. 
+📩 Reach me at: vladsklemapl@gmail.com
+Tech Stack: Languages: Python • C++ • C • JavaScript Core Topics: Graph Theory • Dynamic Programming • Greedy Algorithms • Trees & Hash Maps ML Tools: Scikit-learn • Pandas • NumPy • Matplotlib
+OS: 🖥️ Linux • Windows •
+Git •
+
+
 <table>
   <tr>
     <td><strong>Programming Languages</strong></td>
